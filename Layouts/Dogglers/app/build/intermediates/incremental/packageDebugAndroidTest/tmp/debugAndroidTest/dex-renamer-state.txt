@@ -1,0 +1,7 @@
+#Sun Feb 06 06:07:09 KST 2022
+base.1=/Users/ksh/AndroidStudioProjects/kotlin/Layouts/Dogglers/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/classes.dex
+path.1=classes.dex
+base.0=/Users/ksh/AndroidStudioProjects/kotlin/Layouts/Dogglers/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
